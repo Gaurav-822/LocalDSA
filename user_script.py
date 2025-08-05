@@ -1,4 +1,4 @@
-from problem_solver import question, solve_problem, test_problem
+from local_dsa import question, solve_problem, test_problem
 
 #> Set Question
 question.name = "Sum Of "
