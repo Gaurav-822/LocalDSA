@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "local_dsa"
-version = "0.1.0"
+version = "0.1.2"
 description = "A package for solving coding problems with automatic problem fetching and comments injection"
 readme = "README.md"
 authors = [
