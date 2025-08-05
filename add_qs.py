@@ -1,4 +1,4 @@
-from local-dsa import insert_problem, insert_test_case
+from local_dsa import insert_problem, insert_test_case
 
 # Insert a problem
 problem_id = insert_problem(
