@@ -29,7 +29,7 @@ easily just from a single .py file
 ## Installation
 Install using pip:
 ```bash
-pip install local_dsa
+pip install local-dsa
 ```
 
 ---
